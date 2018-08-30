@@ -1,0 +1,7 @@
+INSTRUCTIONS
+
+The file is in a Zipped (.ZIP) file. To open it, double click on the file then go:
+Extract > Extract all
+
+In the folder that opens, navigate to 'Fall of Singapore Interactive Museum.exe' and open it.
+You can then proceed normally.
